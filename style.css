@@ -1,0 +1,21 @@
+
+#container{
+    height: 100vh;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.div_container{
+    display: flex; 
+    align-items:center ; 
+    justify-content: center; 
+    font-size: larger; 
+    gap: 30px;
+   
+}
+
+#flexSwitchCheckDefault{
+    width: 3.5rem;
+    height: 30px;
+    outline: none;
+}
